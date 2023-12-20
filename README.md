@@ -33,7 +33,7 @@ Este jogo foi solicitado na matéria de desenvolvimento WEB com a ideia de exerc
   <dt><h4>3.3. Se acertar os dois cards iguais ele travará em tela facilitando assim para chegar ao final do jogo.</h4></dt>
   <dt><h4>3.4. Se a resposta for errada os cards volta a forma inicial, continuando no mesmo local.</h4></dt>
   <dt><h4>3.5. O jogo finaliza ao encontrar todos cards equivalentes.</h4></dt>
-  <dt><h4>3.3. No final de todas as partidas o programa lhe mostra a sua pontuação e se quer repetir o jogo.</h4></dt>
+  <dt><h4>3.6. No final de todas as partidas o programa lhe mostra a sua pontuação e se quer repetir o jogo.</h4></dt>
 </dl>
 </div>
       
